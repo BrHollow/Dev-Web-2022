@@ -11,7 +11,7 @@ const RestrictPage = (props) => {
             alignItems: 'center',
             marginTop: '15%'
         }}>
-            <h3>Acesso restrito, faça o seu login.</h3>
+            <h3>Erro de acesso. Realize o login</h3>
             <Link to="/" className="nav-link">Home</Link>
         </div>
     )
